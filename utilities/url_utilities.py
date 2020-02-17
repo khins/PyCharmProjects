@@ -1,7 +1,7 @@
 import re
 import string
 from urllib.request import urlopen
-
+# from lynda.com video https://www.lynda.com/Python-tutorials/Calling-url_utilities-package/590828/629433-4.html
 from bs4 import BeautifulSoup
 
 
