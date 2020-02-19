@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SQLite - words.db" uuid="1629053f-841f-4b46-b608-3fae724ffb58">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\kevin\Documents\Learning Library\python\PyCharmProjects\pageSpider\words.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
